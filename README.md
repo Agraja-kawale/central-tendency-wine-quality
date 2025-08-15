@@ -3,7 +3,7 @@
 A short case study using the Wine Quality dataset to compute and explain measures of central tendency (mean, median, mode) and visualize distributions.
 
 ## Dataset
-- Public Wine Quality dataset (red/white). Include CSV in `data/` or link the source.
+- Public Wine Quality dataset (red/white). Include CSV source.
 
 ## Steps Performed
 1. Load data
@@ -23,3 +23,4 @@ A short case study using the Wine Quality dataset to compute and explain measure
 
 ## Notes
 - Central tendency choice (mean/median/mode) depends on data type and distribution.
+
