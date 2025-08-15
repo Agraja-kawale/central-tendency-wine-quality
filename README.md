@@ -24,3 +24,22 @@ A short case study using the Wine Quality dataset to compute and explain measure
 ## Notes
 - Central tendency choice (mean/median/mode) depends on data type and distribution.
 
+- ## How to Run
+1. `pip install -r requirements.txt`
+2. Open `Central_Tendency_Wine_Quality.ipynb` in Jupyter/Colab and run all cells.
+
+## Notes
+- Central tendency choice (mean/median/mode) depends on data type and distribution.
+
+## Visualizations
+
+### Bar Plot of Quality
+![Quality Distribution](images/quality_distribution.png)
+
+### Histogram of Fixed Acidity
+![Fixed Acidity Histogram](images/fixed_acidity_hist.png)
+
+### Histogram of Volatile Acidity
+![Volatile Acidity Histogram](images/volatile_acidity_hist.png)
+
+
